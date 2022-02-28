@@ -19,17 +19,16 @@ I'm a Web Development Enthusiast
 MERN Stack | NodeJS | TypeScript | ReactJS | HTML | CSS | SASS | JavaScript | MongoDB |
 
 <br/>
-💻Developer <br/> 
-✈️Traveller <br/> 
-🎹Keyboardist/Composer<br/> 
-💪Fitness<br/> 
-💹Digital Marketer <br/>
+💻 Developer <br/> 
+✈️ Traveller <br/> 
+🎹 Keyboardist/Composer<br/> 
+💪 Fitness<br/> 
+💹 Digital Marketer <br/>
 
 <br/>
-🌱 I’m currently learning Android and iSO Develpment (React Native) <br/>
+🌱 I’m currently learning React Native <br/>
 👯 I’m looking to collaborate with React Native developers <br/>
 ⚒️ 2022 Goals: to contribute more to Open Source projects <br/>
-💬 Ask me about Coding <br/>
 
  <br/>
  🛠 Tech <br/>
